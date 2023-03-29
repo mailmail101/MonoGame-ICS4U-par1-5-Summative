@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/liam/Desktop/ICS-4U/Project4/Content/explosion.png","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/explosion.xnb","TextureProcessor","Texture2DContent",215402,15520085,1.5169628
+"/home/liam/Desktop/ICS-4U/Project4/Content/FreeSansBold.spritefont","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/FreeSansBold.xnb","FontDescriptionProcessor","SpriteFontContent",2015,21535,0.5695825
+"/home/liam/Desktop/ICS-4U/Project4/Content/FreeSansBold36.spritefont","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/FreeSansBold36.xnb","FontDescriptionProcessor","SpriteFontContent",2015,136223,0.6636944
+"/home/liam/Desktop/ICS-4U/Project4/Content/Laser.png","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/Laser.xnb","TextureProcessor","Texture2DContent",23392,1048661,0.3104741
+"/home/liam/Desktop/ICS-4U/Project4/Content/TempestBomber.png","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/TempestBomber.xnb","TextureProcessor","Texture2DContent",600584,4455445,0.3467526
+"/home/liam/Desktop/ICS-4U/Project4/Content/TribbleBackGround.jpg","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/TribbleBackGround.xnb","TextureProcessor","Texture2DContent",83147,3686485,0.602071
+"/home/liam/Desktop/ICS-4U/Project4/Content/tribbleBrown.png","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/tribbleBrown.xnb","TextureProcessor","Texture2DContent",222874,643273,0.3047574
+"/home/liam/Desktop/ICS-4U/Project4/Content/tribbleCream.png","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/tribbleCream.xnb","TextureProcessor","Texture2DContent",147094,390517,0.0278798
+"/home/liam/Desktop/ICS-4U/Project4/Content/tribbleGrey.png","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/tribbleGrey.xnb","TextureProcessor","Texture2DContent",196679,702329,0.0584545
+"/home/liam/Desktop/ICS-4U/Project4/Content/tribbleOrange.png","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/tribbleOrange.xnb","TextureProcessor","Texture2DContent",209835,393325,0.0322949
+"/home/liam/Desktop/ICS-4U/Project4/Content/warpEnterprise.jpg","/home/liam/Desktop/ICS-4U/Project4/Content/bin/DesktopGL/Content/warpEnterprise.xnb","TextureProcessor","Texture2DContent",10920,215365,0.2666229

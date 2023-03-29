@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/explosion.png</File>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/FreeSansBold.spritefont</File>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/FreeSansBold36.spritefont</File>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/Laser.png</File>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/TempestBomber.png</File>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/TribbleBackGround.jpg</File>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/tribbleBrown.png</File>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/tribbleCream.png</File>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/tribbleGrey.png</File>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/tribbleOrange.png</File>
+    <File>/home/liam/Desktop/ICS-4U/Project4/Content/warpEnterprise.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
